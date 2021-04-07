@@ -1,0 +1,9 @@
+*.log
+*.json
+snippet.js
+test.png
+answers*.db*
+test
+themes
+lang
+*.bak

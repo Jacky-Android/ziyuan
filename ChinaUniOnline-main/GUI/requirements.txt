@@ -1,0 +1,8 @@
+numpy
+matplotlib
+tenacity
+requests
+beautifulsoup4
+pycryptodome
+PyQt6
+requests[socks]
